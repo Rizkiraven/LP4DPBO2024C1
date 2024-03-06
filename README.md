@@ -7,3 +7,5 @@ melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 # Dokumentasi Program
 ### Python
 ![Screenshot 2024-02-28 233333](https://github.com/Rizkiraven/LP4DPBO2024C1/assets/107761120/c98c1c27-61d2-4bf1-8551-ea8c2889e34b)
+### C++
+![Screenshot 2024-03-06 221001](https://github.com/Rizkiraven/LP4DPBO2024C1/assets/107761120/a602fb2e-d16d-48b0-9f29-eae795123df6)
